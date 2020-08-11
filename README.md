@@ -1,4 +1,4 @@
-### Hi there, My name is Josette 👋
+### Hi there, I'm Josette 👋
 
 ## I'm a Wife, Mother, Developer, and Designer!
 - 🔭 I’m currently working on a very cool project!
