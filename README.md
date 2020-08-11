@@ -31,7 +31,7 @@
 
 ---
 ### Stats
-  <img align="left" src="https://github-readme-stats.vercel.app/api/?username=jojo1311&show_icons=true&hide=stars,issues,contribs,=true&hide_border=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/?username=jojo1311&show_icons=true&hide=stars,issues,=true&hide_border=true" />
 
 
 
