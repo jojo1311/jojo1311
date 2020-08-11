@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**jojo1311/jojo1311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Hi there, My name is Josette 👋
 
 ## I'm a Wife, Mother, Developer, and Designer!
@@ -48,4 +43,4 @@
 [twitter]: https://twitter.com/josette_rojas
 [instagram]: https://www.instagram.com/jovestudio
 ---
--->
+
