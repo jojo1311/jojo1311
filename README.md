@@ -9,7 +9,7 @@
 ### Connect with me:
 
 [<img align="left" alt="josette_rojas | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="jovestudio | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 <br />
 
@@ -41,6 +41,6 @@
 <br />
 
 [twitter]: https://twitter.com/josette_rojas
-[instagram]: https://www.instagram.com/jovestudio
+
 ---
 
